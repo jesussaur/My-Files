@@ -1,0 +1,17 @@
+{"modelName":"genomic","columnHeaders":["Gene > Primary Identifier","Gene > Defline","Gene > Organism Name","Gene > Symbol","Gene > Length","Gene > Chromosome . Primary Identifier","Gene > Chromosome Location . Start","Gene > Chromosome Location . End"],"rootClass":"Gene","start":0,"views":["Gene.primaryIdentifier","Gene.briefDescription","Gene.organism.shortName","Gene.symbol","Gene.length","Gene.chromosome.primaryIdentifier","Gene.chromosomeLocation.start","Gene.chromosomeLocation.end"],"results":[
+["AT1G04820","tubulin alpha-4 chain","A. thaliana early-release","TUA4",2464,"Chr1",1356084,1358547],
+["AT1G22270","Trm112p-like protein","A. thaliana early-release",null,742,"Chr1",7865435,7866176],
+["AT1G44446","Pheophorbide a oxygenase family protein with Rieske 2Fe-2S domain-containing protein","A. thaliana early-release","CH1",2964,"Chr1",16848308,16851271],
+["AT1G67120","midasin-like protein","A. thaliana early-release",null,26211,"Chr1",25069428,25095638],
+["AT2G20860","lipoic acid synthase 1","A. thaliana early-release","LIP1",2370,"Chr2",8979554,8981923],
+["AT2G40840","disproportionating enzyme 2","A. thaliana early-release","DPE2",6131,"Chr2",17044932,17051062],
+["AT3G19210","DNA repair/recombination protein","A. thaliana early-release","RAD54",6294,"Chr3",6652695,6658988],
+["AT3G54180","cyclin-dependent kinase B1;1","A. thaliana early-release","CDKB1;1",1818,"Chr3",20059671,20061488],
+["AT3G55200","Cleavage and polyadenylation specificity factor (CPSF) A subunit protein","A. thaliana early-release","SAP130a",4873,"Chr3",20460329,20465201],
+["AT4G34890","xanthine dehydrogenase 1","A. thaliana early-release","XDH1",6619,"Chr4",16618573,16625191],
+["AT5G04140","glutamate synthase 1","A. thaliana early-release","GLU1",8704,"Chr5",1129785,1138488],
+["AT5G10070","RNase L inhibitor protein-like protein","A. thaliana early-release",null,2011,"Chr5",3148424,3150434],
+["AT5G13300","ARF GTPase-activating protein","A. thaliana early-release","SFC",7022,"Chr5",4255547,4262568],
+["AT5G15680","ARM repeat superfamily protein","A. thaliana early-release",null,10190,"Chr5",5100916,5111105],
+["AT5G40820","Ataxia telangiectasia-mutated and RAD3-like protein","A. thaliana early-release","ATR",11171,"Chr5",16342728,16353898]
+],"executionTime":"2018.04.18 10:34::50","wasSuccessful":true,"error":null,"statusCode":200}
